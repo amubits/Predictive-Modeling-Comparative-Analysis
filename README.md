@@ -2,7 +2,9 @@
 # Predictive Modeling Analysis - HW1 Problem 5
 
 ## Overview
-This repository contains the code and analysis for Problem 5 of Homework 1, focusing on predictive modeling using various techniques such as Decision Trees, k-Nearest Neighbors (k-NN), Logistic Regression, and Support Vector Machines (SVM). The goal is to explore the performance of these models on a specific dataset, experimenting with different hyper-parameter values to gauge model effectiveness.
+This repository contains the code and analysis focusing on predictive modeling using various techniques such as Decision Trees, k-Nearest Neighbors (k-NN), Logistic Regression, and Support Vector Machines (SVM). The goal is to explore the performance of these models on a specific dataset, experimenting with different hyper-parameter values to gauge model effectiveness.
+
+Datset: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data
 
 ## Predictive Modeling Process
 The analysis involves the following steps:
